@@ -1,4 +1,3 @@
 # Flat-design-landing-page
 Flat design landing page make using bootstrap 5
-![alt text](https://github.com/[Dimasamran]/[Flat-design-landing-page]/hasil.png?raw=true)
-
+![hasil](https://user-images.githubusercontent.com/73156611/109427709-39ae4400-7a26-11eb-9fc1-437929ebe4ac.PNG)
