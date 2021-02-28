@@ -1,0 +1,59 @@
+.tombol {
+  font-weight: 500;
+  background-color: #04c488;
+  border-color: #04c488;
+  border-radius: 20px;
+}
+
+.tombol1 {
+  font-weight: 500;
+  background-color: #04c488;
+  border-color: #04c488;
+  border-radius: 20px;
+  opacity: 50%;
+}
+
+body {
+  font-weight: 500;
+}
+
+.navbar-nav a {
+  margin-left: 20px;
+}
+
+.navbar-nav .tombol {
+  margin-left: 25px;
+}
+
+.tulisan {
+  margin-top: 90px;
+}
+
+.tulisan p {
+  margin-bottom: 40px;
+}
+
+.tulisan button {
+  margin-right: 20px;
+}
+.tulisan h1 {
+  margin-bottom: 30px;
+  font-weight: 100;
+}
+
+.navbar-brand {
+  font-size: 30px;
+  font-weight: 800;
+}
+
+.gambarilus {
+  margin-top: 89px;
+  margin-right: -120px;
+  height: 500px;
+  width: auto;
+}
+
+.col h1 {
+  font-size: 50px;
+  font-weight: 800;
+}
